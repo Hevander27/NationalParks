@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 - [X] Advanced scroll view techniques
 
 
-**Video Walkthroughs**
+**Video Walkthrough**
 
 
 ![Lab 5 National Park - Imgur](https://github.com/Hevander27/NationalParks/assets/45948489/d9aa388f-05b8-48b2-b10c-c82c8123f814)
