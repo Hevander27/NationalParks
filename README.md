@@ -10,6 +10,17 @@ The following **required** functionality is completed:
 - [X] Search for a specific park
 - [X] Sort the list of parks alphabetically ascending/descending
 
+
+## 🎯 Goals
+
+- [X] Fetching Data from an API using URLSession with async/await
+- [X] Lists and Grids to dynamically display collections of data
+- [X] Async image loading and display
+- [X] Using navigation stack (i.e. push navigation)
+- [X] Using maps to display and annotate locations
+- [X] Advanced scroll view techniques
+
+
 **Video Walkthroughs**
 
 
